@@ -1,0 +1,52 @@
+min为：24
+[['iput0', 'oput0', 'iput1', 'oput1', 'iput2', 'oput2', 'iput3', 'oput3', 'iput4', 'oput4', 'iput5', 'oput5', 'iput6', 'oput6', 'iput7', 'oput7', 'iput8', 'oput8', 'iput9', 'oput9', 'iput10', 'oput10', 'iput11', 'oput11', 'iput12', 'oput12', 'iput13', 'oput13', 'iput14', 'oput14', 'iput15', 'oput15', 'adder0', 'adder1', 'adder2', 'adder3', 'adder4', 'adder5', 'adder6', 'adder7', 'adder8', 'adder9', 'adder10', 'adder11', 'adder12', 'adder13', 'adder14', 'adder15', 'adder16', 'adder19', 'adder22', 'adder25', 'adder28', 'adder31', 'adder34', 'adder37']]
+[[['adder0', 'oput0'], ['adder1', 'oput1'], ['adder2', 'oput2'], ['adder3', 'oput3'], ['adder4', 'oput4'], ['adder5', 'oput5'], ['adder6', 'oput6'], ['adder7', 'oput7'], ['adder8', 'oput8'], ['adder9', 'oput9'], ['adder10', 'oput10'], ['adder11', 'oput11'], ['adder12', 'oput12'], ['adder13', 'oput13'], ['adder14', 'oput14'], ['adder15', 'oput15'], ['adder16', 'adder9'], ['adder16', 'adder1'], ['iput1', 'adder9'], ['iput9', 'adder1'], ['adder19', 'adder14'], ['adder19', 'adder6'], ['iput6', 'adder14'], ['iput14', 'adder6'], ['adder22', 'adder10'], ['adder22', 'adder2'], ['iput2', 'adder10'], ['iput10', 'adder2'], ['adder25', 'adder4'], ['adder25', 'adder12'], ['iput12', 'adder4'], ['iput4', 'adder12'], ['adder28', 'adder13'], ['adder28', 'adder5'], ['iput5', 'adder13'], ['iput13', 'adder5'], ['adder31', 'adder7'], ['adder31', 'adder3'], ['iput3', 'adder7'], ['iput7', 'adder3'], ['adder34', 'adder0'], ['adder34', 'adder8'], ['iput8', 'adder0'], ['iput0', 'adder8'], ['adder37', 'adder11'], ['adder37', 'adder15'], ['iput15', 'adder11'], ['iput11', 'adder15'], ['iput5', 'adder16'], ['iput13', 'adder16'], ['iput2', 'adder19'], ['iput10', 'adder19'], ['iput6', 'adder22'], ['iput14', 'adder22'], ['iput0', 'adder25'], ['iput8', 'adder25'], ['iput1', 'adder28'], ['iput9', 'adder28'], ['iput11', 'adder31'], ['iput15', 'adder31'], ['iput4', 'adder34'], ['iput12', 'adder34'], ['iput3', 'adder37'], ['iput7', 'adder37']]]
+
+a16 = x5 ^ x13;
+a1 = a16 ^ x9;// y1
+a9 = a16 ^ x1;// y9
+a17 = x2 ^ x10;
+a6 = a17 ^ x14;// y6
+a14 = a17 ^ x6;// y14
+a18 = x6 ^ x14;
+a2 = a18 ^ x10;// y2
+a10 = a18 ^ x2;// y10
+a19 = x0 ^ x8;
+a4 = a19 ^ x12;// y4
+a12 = a19 ^ x4;// y12
+a20 = x1 ^ x9;
+a5 = a20 ^ x13;// y5
+a13 = a20 ^ x5;// y13
+a21 = x11 ^ x15;
+a3 = a21 ^ x7;// y3
+a7 = a21 ^ x3;// y7
+a22 = x4 ^ x12;
+a0 = a22 ^ x8;// y0
+a8 = a22 ^ x0;// y8
+a23 = x3 ^ x7;
+a11 = a23 ^ x15;// y11
+a15 = a23 ^ x11;// y15
+assign a16 = x5 ^ x13;
+assign a1 = a16 ^ x9;// y1
+assign a9 = a16 ^ x1;// y9
+assign a17 = x2 ^ x10;
+assign a6 = a17 ^ x14;// y6
+assign a14 = a17 ^ x6;// y14
+assign a18 = x6 ^ x14;
+assign a2 = a18 ^ x10;// y2
+assign a10 = a18 ^ x2;// y10
+assign a19 = x0 ^ x8;
+assign a4 = a19 ^ x12;// y4
+assign a12 = a19 ^ x4;// y12
+assign a20 = x1 ^ x9;
+assign a5 = a20 ^ x13;// y5
+assign a13 = a20 ^ x5;// y13
+assign a21 = x11 ^ x15;
+assign a3 = a21 ^ x7;// y3
+assign a7 = a21 ^ x3;// y7
+assign a22 = x4 ^ x12;
+assign a0 = a22 ^ x8;// y0
+assign a8 = a22 ^ x0;// y8
+assign a23 = x3 ^ x7;
+assign a11 = a23 ^ x15;// y11
+assign a15 = a23 ^ x11;// y15

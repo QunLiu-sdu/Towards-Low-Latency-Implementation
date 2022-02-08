@@ -1,0 +1,146 @@
+['iput0', 'oput0', 'iput1', 'oput1', 'iput2', 'oput2', 'iput3', 'oput3', 'iput4', 'oput4', 'iput5', 'oput5', 'iput6', 'oput6', 'iput7', 'oput7', 'iput8', 'oput8', 'iput9', 'oput9', 'iput10', 'oput10', 'iput11', 'oput11', 'iput12', 'oput12', 'iput13', 'oput13', 'iput14', 'oput14', 'iput15', 'oput15', 'adder0', 'adder1', 'adder2', 'adder3', 'adder4', 'adder5', 'adder6', 'adder7', 'adder8', 'adder9', 'adder10', 'adder11', 'adder12', 'adder13', 'adder14', 'adder15', 'adder16', 'adder17', 'adder18', 'adder19', 'adder20', 'adder21', 'adder22', 'adder23', 'adder24', 'adder25', 'adder26', 'adder27', 'adder28', 'adder29', 'adder30', 'adder31', 'adder32', 'adder34', 'adder35', 'adder37', 'adder38', 'adder40', 'adder41', 'adder43', 'adder44']
+{'adder8': 3, 'adder28': 2, 'oput1': 3, 'adder12': 3, 'iput0': 0, 'adder41': 1, 'adder14': 3, 'adder6': 3, 'oput6': 3, 'iput13': 0, 'adder27': 2, 'adder35': 1, 'iput10': 0, 'iput14': 0, 'adder29': 1, 'adder24': 2, 'adder25': 2, 'adder44': 1, 'adder18': 1, 'adder20': 1, 'oput4': 3, 'oput13': 3, 'adder7': 3, 'oput14': 3, 'adder30': 1, 'adder0': 3, 'iput11': 0, 'oput5': 3, 'adder22': 2, 'oput12': 3, 'iput1': 0, 'adder10': 3, 'adder23': 1, 'adder43': 1, 'iput6': 0, 'oput10': 3, 'oput0': 3, 'iput3': 0, 'adder2': 3, 'adder5': 3, 'oput7': 3, 'iput7': 0, 'adder16': 2, 'adder34': 1, 'adder31': 1, 'iput12': 0, 'oput2': 3, 'oput15': 3, 'iput4': 0, 'adder3': 3, 'oput11': 3, 'adder15': 3, 'iput2': 0, 'adder21': 2, 'adder19': 2, 'adder13': 3, 'adder40': 1, 'adder11': 3, 'adder1': 3, 'adder38': 1, 'iput5': 0, 'adder9': 3, 'adder26': 1, 'adder17': 2, 'oput3': 3, 'adder37': 1, 'iput9': 0, 'oput9': 3, 'iput15': 0, 'adder32': 2, 'adder4': 3, 'oput8': 3, 'iput8': 0}
+3
+41
+['adder0', 'oput10']
+['adder1', 'oput0']
+['adder2', 'oput1']
+['adder3', 'oput4']
+['adder4', 'oput7']
+['adder5', 'oput13']
+['adder6', 'oput14']
+['adder7', 'oput5']
+['adder8', 'oput11']
+['adder9', 'oput3']
+['adder10', 'oput12']
+['adder11', 'oput9']
+['adder12', 'oput6']
+['adder13', 'oput2']
+['adder14', 'oput15']
+['adder15', 'oput8']
+['adder16', 'adder8']
+['adder16', 'adder4']
+['adder17', 'adder8']
+['adder18', 'adder4']
+['adder19', 'adder14']
+['adder17', 'adder14']
+['adder20', 'adder9']
+['adder17', 'adder9']
+['adder21', 'adder0']
+['adder21', 'adder12']
+['adder22', 'adder0']
+['adder23', 'adder12']
+['adder24', 'adder11']
+['adder24', 'adder2']
+['adder25', 'adder11']
+['adder26', 'adder2']
+['adder24', 'adder5']
+['adder18', 'adder5']
+['adder27', 'adder15']
+['adder27', 'adder3']
+['adder28', 'adder15']
+['adder29', 'adder3']
+['adder28', 'adder10']
+['adder19', 'adder10']
+['adder29', 'adder6']
+['adder22', 'adder6']
+['adder30', 'adder13']
+['adder25', 'adder13']
+['adder31', 'adder7']
+['adder25', 'adder7']
+['adder32', 'adder1']
+['adder28', 'adder1']
+['adder23', 'adder19']
+['adder31', 'adder19']
+['iput15', 'adder21']
+['adder20', 'adder21']
+['adder34', 'adder32']
+['adder34', 'adder27']
+['adder35', 'adder32']
+['iput13', 'adder27']
+['adder37', 'adder16']
+['adder35', 'adder16']
+['adder38', 'adder24']
+['iput13', 'adder24']
+['iput1', 'adder28']
+['iput1', 'adder25']
+['adder40', 'adder28']
+['adder41', 'adder25']
+['iput14', 'adder22']
+['adder30', 'adder22']
+['adder43', 'adder17']
+['adder44', 'adder17']
+['iput5', 'adder41']
+['iput14', 'adder41']
+['iput1', 'adder44']
+['iput11', 'adder44']
+['iput6', 'adder18']
+['iput10', 'adder18']
+['iput4', 'adder40']
+['iput12', 'adder40']
+['iput3', 'adder35']
+['iput7', 'adder35']
+['iput2', 'adder20']
+['iput6', 'adder20']
+['iput3', 'adder30']
+['iput10', 'adder30']
+['iput12', 'adder37']
+['iput13', 'adder37']
+['iput0', 'adder34']
+['iput8', 'adder34']
+['iput5', 'adder23']
+['iput9', 'adder23']
+['iput4', 'adder31']
+['iput8', 'adder31']
+['iput2', 'adder38']
+['iput9', 'adder38']
+['iput7', 'adder29']
+['iput11', 'adder29']
+['iput0', 'adder43']
+['iput15', 'adder43']
+['iput0', 'adder26']
+['iput4', 'adder26']
+a18 = x6 ^ x10;
+a20 = x2 ^ x6;
+a21 = x15 ^ a20;
+a23 = x5 ^ x9;
+a12 = a21 ^ a23;// y12
+a26 = x0 ^ x4;
+a29 = x7 ^ x11;
+a30 = x3 ^ x10;
+a22 = x14 ^ a30;
+a0 = a21 ^ a22;// y0
+a6 = a29 ^ a22;// y6
+a31 = x4 ^ x8;
+a19 = a23 ^ a31;
+a33 = x0 ^ x8;
+a27 = a33 ^ x13;
+a3 = a27 ^ a29;// y3
+a34 = x3 ^ x7;
+a32 = a33 ^ a34;
+a35 = x12 ^ x13;
+a16 = a35 ^ a34;
+a4 = a16 ^ a18;// y4
+a36 = x2 ^ x9;
+a24 = a36 ^ x13;
+a2 = a24 ^ a26;// y2
+a5 = a24 ^ a18;// y5
+a37 = x4 ^ x12;
+a28 = x1 ^ a37;
+a1 = a32 ^ a28;// y1
+a10 = a28 ^ a19;// y10
+a15 = a27 ^ a28;// y15
+a38 = x5 ^ x14;
+a25 = x1 ^ a38;
+a7 = a31 ^ a25;// y7
+a11 = a24 ^ a25;// y11
+a13 = a30 ^ a25;// y13
+a39 = x0 ^ x15;
+a40 = x1 ^ x11;
+a17 = a39 ^ a40;
+a8 = a16 ^ a17;// y8
+a9 = a20 ^ a17;// y9
+a14 = a19 ^ a17;// y14
+1
+minDepth:[3]
+minminmin:41
