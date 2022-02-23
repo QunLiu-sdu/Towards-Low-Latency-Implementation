@@ -6,7 +6,6 @@ main.py - the process for deal with the output.
 run.py - the main process to run our algorithm for multiprocessing in python.
 
 This program requires Python3.
-There are also 2 arguments that one has to set during compile time: 
 
 An example is shown as follows.
 	matrix.txt - a given matrix
@@ -28,5 +27,5 @@ An example is shown as follows.
 		0011000100010010
 
 	We create a folder 'result'.
-	Then, we run 'run.py' to optimize the matrix.
+	Then, we run 'python3 run.py' to optimize the matrix.
 	All the results can be seen in the folder 'result'.
