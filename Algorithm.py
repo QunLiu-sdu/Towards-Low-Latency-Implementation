@@ -326,20 +326,20 @@ def getGraph(my_matrix):
                     if (W[key][i] == 1) and (newNode1[i] == 0):
                         newNode2[i] = 1
 
-                # type5'
-                add_one_in_node_list = []
-                for i in range(0, matrixLength):
-                    if i not in numberSite:
-                        add_one_in_node_list.append(i)
-                random.shuffle(add_one_in_node_list)
-                add_one_random = [0, 1]
-                if (number_1 == 5 and newNode1.count(1) != 4 and newNode2.count(1) != 4) or (
-                        number_1 == 6 and newNode1.count(1) != 4 and newNode2.count(1) != 4):
-                    random.shuffle(add_one_random)
-                    if add_one_random[0] == 1:
-                        add_one_site = add_one_in_node_list[0]
-                        newNode1[add_one_site] = 1
-                        newNode2[add_one_site] = 1
+                
+                #add_one_in_node_list = []
+                #for i in range(0, matrixLength):
+                #    if i not in numberSite:
+                #        add_one_in_node_list.append(i)
+                #random.shuffle(add_one_in_node_list)
+                #add_one_random = [0, 1]
+                #if (number_1 == 5 and newNode1.count(1) != 4 and newNode2.count(1) != 4) or (
+                #        number_1 == 6 and newNode1.count(1) != 4 and newNode2.count(1) != 4):
+                #    random.shuffle(add_one_random)
+                #    if add_one_random[0] == 1:
+                #        add_one_site = add_one_in_node_list[0]
+                #        newNode1[add_one_site] = 1
+                #        newNode2[add_one_site] = 1
 
                 # find
                 symbol = 1
