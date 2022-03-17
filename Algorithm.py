@@ -470,7 +470,7 @@ def run(V, E):  # the logic of the function comes from [] and we implemented it 
 
 if __name__ == "__main__":
 
-    # # SmallScale_AES
+    # AES
     # matrix = [
     #     [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0],
     #     [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0],
