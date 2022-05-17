@@ -1,0 +1,52 @@
+min：45
+[['iput0', 'oput0', 'iput1', 'oput1', 'iput2', 'oput2', 'iput3', 'oput3', 'iput4', 'oput4', 'iput5', 'oput5', 'iput6', 'oput6', 'iput7', 'oput7', 'iput8', 'oput8', 'iput9', 'oput9', 'iput10', 'oput10', 'iput11', 'oput11', 'iput12', 'oput12', 'iput13', 'oput13', 'iput14', 'oput14', 'iput15', 'oput15', 'adder0', 'adder1', 'adder2', 'adder3', 'adder4', 'adder5', 'adder6', 'adder7', 'adder8', 'adder9', 'adder10', 'adder11', 'adder12', 'adder13', 'adder14', 'adder15', 'adder16', 'adder17', 'adder18', 'adder19', 'adder20', 'adder21', 'adder22', 'adder23', 'adder24', 'adder25', 'adder26', 'adder27', 'adder28', 'adder29', 'adder30', 'adder31', 'adder32', 'adder34', 'adder35', 'adder36', 'adder38', 'adder39', 'adder42', 'adder43', 'adder45', 'adder46', 'adder47', 'adder48', 'adder49'], ['iput0', 'oput0', 'iput1', 'oput1', 'iput2', 'oput2', 'iput3', 'oput3', 'iput4', 'oput4', 'iput5', 'oput5', 'iput6', 'oput6', 'iput7', 'oput7', 'iput8', 'oput8', 'iput9', 'oput9', 'iput10', 'oput10', 'iput11', 'oput11', 'iput12', 'oput12', 'iput13', 'oput13', 'iput14', 'oput14', 'iput15', 'oput15', 'adder0', 'adder1', 'adder2', 'adder3', 'adder4', 'adder5', 'adder6', 'adder7', 'adder8', 'adder9', 'adder10', 'adder11', 'adder12', 'adder13', 'adder14', 'adder15', 'adder16', 'adder17', 'adder18', 'adder19', 'adder20', 'adder21', 'adder22', 'adder23', 'adder24', 'adder25', 'adder27', 'adder28', 'adder29', 'adder30', 'adder31', 'adder32', 'adder34', 'adder35', 'adder36', 'adder37', 'adder38', 'adder42', 'adder43', 'adder44', 'adder45', 'adder46', 'adder47', 'adder48', 'adder49']]
+[[['adder0', 'oput0'], ['adder1', 'oput1'], ['adder2', 'oput2'], ['adder3', 'oput3'], ['adder4', 'oput4'], ['adder5', 'oput5'], ['adder6', 'oput6'], ['adder7', 'oput7'], ['adder8', 'oput8'], ['adder9', 'oput9'], ['adder10', 'oput10'], ['adder11', 'oput11'], ['adder12', 'oput12'], ['adder13', 'oput13'], ['adder14', 'oput14'], ['adder15', 'oput15'], ['adder16', 'adder13'], ['adder16', 'adder2'], ['adder17', 'adder13'], ['adder18', 'adder2'], ['adder19', 'adder5'], ['adder3', 'adder5'], ['adder20', 'adder11'], ['adder19', 'adder11'], ['adder21', 'adder10'], ['adder20', 'adder10'], ['adder22', 'adder1'], ['adder21', 'adder1'], ['adder23', 'adder9'], ['adder22', 'adder9'], ['adder24', 'adder15'], ['adder22', 'adder15'], ['adder25', 'adder6'], ['adder24', 'adder6'], ['adder26', 'adder14'], ['adder27', 'adder14'], ['adder28', 'adder7'], ['adder28', 'adder22'], ['adder29', 'adder7'], ['adder30', 'adder22'], ['adder31', 'adder21'], ['adder29', 'adder21'], ['adder32', 'adder26'], ['adder32', 'adder19'], ['iput7', 'adder26'], ['adder34', 'adder19'], ['adder35', 'adder3'], ['adder35', 'adder23'], ['adder36', 'adder3'], ['iput12', 'adder23'], ['adder38', 'adder17'], ['adder36', 'adder17'], ['adder39', 'adder20'], ['adder39', 'adder16'], ['iput3', 'adder20'], ['iput8', 'adder16'], ['adder42', 'adder12'], ['adder39', 'adder12'], ['adder43', 'adder24'], ['adder43', 'adder8'], ['iput10', 'adder24'], ['adder45', 'adder8'], ['adder46', 'adder0'], ['adder47', 'adder0'], ['adder48', 'adder4'], ['adder49', 'adder4'], ['iput6', 'adder25'], ['iput12', 'adder25'], ['iput2', 'adder18'], ['iput14', 'adder18'], ['iput1', 'adder27'], ['iput9', 'adder27'], ['iput2', 'adder28'], ['iput7', 'adder28'], ['iput11', 'adder29'], ['iput13', 'adder29'], ['iput1', 'adder30'], ['iput4', 'adder30'], ['iput2', 'adder31'], ['iput10', 'adder31'], ['iput6', 'adder32'], ['iput14', 'adder32'], ['iput0', 'adder34'], ['iput5', 'adder34'], ['iput9', 'adder35'], ['iput15', 'adder35'], ['iput3', 'adder36'], ['iput6', 'adder36'], ['iput0', 'adder38'], ['iput13', 'adder38'], ['iput5', 'adder39'], ['iput11', 'adder39'], ['iput3', 'adder42'], ['iput12', 'adder42'], ['iput1', 'adder43'], ['iput15', 'adder43'], ['iput7', 'adder45'], ['iput8', 'adder45'], ['iput10', 'adder46'], ['iput12', 'adder46'], ['iput0', 'adder47'], ['iput7', 'adder47'], ['iput4', 'adder48'], ['iput14', 'adder48'], ['iput3', 'adder49'], ['iput8', 'adder49']], [['adder0', 'oput0'], ['adder1', 'oput1'], ['adder2', 'oput2'], ['adder3', 'oput3'], ['adder4', 'oput4'], ['adder5', 'oput5'], ['adder6', 'oput6'], ['adder7', 'oput7'], ['adder8', 'oput8'], ['adder9', 'oput9'], ['adder10', 'oput10'], ['adder11', 'oput11'], ['adder12', 'oput12'], ['adder13', 'oput13'], ['adder14', 'oput14'], ['adder15', 'oput15'], ['adder16', 'adder1'], ['adder7', 'adder1'], ['adder17', 'adder15'], ['adder16', 'adder15'], ['adder18', 'adder14'], ['adder17', 'adder14'], ['adder19', 'adder5'], ['adder18', 'adder5'], ['adder20', 'adder6'], ['adder20', 'adder9'], ['adder21', 'adder6'], ['adder22', 'adder9'], ['adder23', 'adder11'], ['adder19', 'adder11'], ['adder24', 'adder13'], ['adder19', 'adder13'], ['adder25', 'adder2'], ['adder23', 'adder2'], ['iput3', 'adder10'], ['adder27', 'adder10'], ['adder28', 'adder16'], ['adder28', 'adder27'], ['adder29', 'adder16'], ['adder30', 'adder27'], ['adder31', 'adder8'], ['adder31', 'adder20'], ['adder32', 'adder8'], ['iput12', 'adder20'], ['adder34', 'adder22'], ['adder34', 'adder7'], ['adder35', 'adder22'], ['adder36', 'adder7'], ['adder37', 'adder12'], ['adder37', 'adder23'], ['adder38', 'adder12'], ['iput14', 'adder23'], ['iput7', 'adder17'], ['adder31', 'adder17'], ['iput8', 'adder24'], ['adder36', 'adder24'], ['adder42', 'adder3'], ['adder42', 'adder19'], ['adder43', 'adder3'], ['adder44', 'adder19'], ['adder45', 'adder18'], ['adder43', 'adder18'], ['adder46', 'adder0'], ['adder47', 'adder0'], ['adder48', 'adder4'], ['adder49', 'adder4'], ['iput6', 'adder21'], ['iput10', 'adder21'], ['iput2', 'adder25'], ['iput8', 'adder25'], ['iput2', 'adder28'], ['iput10', 'adder28'], ['iput1', 'adder29'], ['iput4', 'adder29'], ['iput5', 'adder30'], ['iput13', 'adder30'], ['iput1', 'adder31'], ['iput15', 'adder31'], ['iput7', 'adder32'], ['iput8', 'adder32'], ['iput2', 'adder34'], ['iput7', 'adder34'], ['iput4', 'adder35'], ['iput9', 'adder35'], ['iput11', 'adder36'], ['iput13', 'adder36'], ['iput5', 'adder37'], ['iput11', 'adder37'], ['iput3', 'adder38'], ['iput12', 'adder38'], ['iput3', 'adder42'], ['iput6', 'adder42'], ['iput9', 'adder43'], ['iput15', 'adder43'], ['iput0', 'adder44'], ['iput5', 'adder44'], ['iput6', 'adder45'], ['iput14', 'adder45'], ['iput0', 'adder46'], ['iput12', 'adder46'], ['iput7', 'adder47'], ['iput10', 'adder47'], ['iput4', 'adder48'], ['iput8', 'adder48'], ['iput3', 'adder49'], ['iput14', 'adder49']]]
+D = [{'iput0': 0, 'oput0': 2, 'iput1': 0, 'oput1': 3, 'iput2': 0, 'oput2': 3, 'iput3': 0, 'oput3': 2, 'iput4': 0, 'oput4': 2, 'iput5': 0, 'oput5': 3, 'iput6': 0, 'oput6': 3, 'iput7': 0, 'oput7': 2, 'iput8': 0, 'oput8': 2, 'iput9': 0, 'oput9': 3, 'iput10': 0, 'oput10': 3, 'iput11': 0, 'oput11': 3, 'iput12': 0, 'oput12': 2, 'iput13': 0, 'oput13': 3, 'iput14': 0, 'oput14': 3, 'iput15': 0, 'oput15': 3, 'adder0': 2, 'adder1': 3, 'adder2': 3, 'adder3': 2, 'adder4': 2, 'adder5': 3, 'adder6': 3, 'adder7': 2, 'adder8': 2, 'adder9': 3, 'adder10': 3, 'adder11': 3, 'adder12': 2, 'adder13': 3, 'adder14': 3, 'adder15': 3, 'adder16': 2, 'adder17': 2, 'adder18': 1, 'adder19': 2, 'adder20': 2, 'adder21': 2, 'adder22': 2, 'adder23': 2, 'adder24': 2, 'adder25': 1, 'adder26': 2, 'adder27': 1, 'adder28': 1, 'adder29': 1, 'adder30': 1, 'adder31': 1, 'adder32': 1, 'adder34': 1, 'adder35': 1, 'adder36': 1, 'adder38': 1, 'adder39': 1, 'adder42': 1, 'adder43': 1, 'adder45': 1, 'adder46': 1, 'adder47': 1, 'adder48': 1, 'adder49': 1}, {'iput0': 0, 'oput0': 2, 'iput1': 0, 'oput1': 3, 'iput2': 0, 'oput2': 3, 'iput3': 0, 'oput3': 2, 'iput4': 0, 'oput4': 2, 'iput5': 0, 'oput5': 3, 'iput6': 0, 'oput6': 3, 'iput7': 0, 'oput7': 2, 'iput8': 0, 'oput8': 2, 'iput9': 0, 'oput9': 3, 'iput10': 0, 'oput10': 3, 'iput11': 0, 'oput11': 3, 'iput12': 0, 'oput12': 2, 'iput13': 0, 'oput13': 3, 'iput14': 0, 'oput14': 3, 'iput15': 0, 'oput15': 3, 'adder0': 2, 'adder1': 3, 'adder2': 3, 'adder3': 2, 'adder4': 2, 'adder5': 3, 'adder6': 3, 'adder7': 2, 'adder8': 2, 'adder9': 3, 'adder10': 3, 'adder11': 3, 'adder12': 2, 'adder13': 3, 'adder14': 3, 'adder15': 3, 'adder16': 2, 'adder17': 2, 'adder18': 2, 'adder19': 2, 'adder20': 2, 'adder21': 1, 'adder22': 2, 'adder23': 2, 'adder24': 2, 'adder25': 1, 'adder27': 2, 'adder28': 1, 'adder29': 1, 'adder30': 1, 'adder31': 1, 'adder32': 1, 'adder34': 1, 'adder35': 1, 'adder36': 1, 'adder37': 1, 'adder38': 1, 'adder42': 1, 'adder43': 1, 'adder44': 1, 'adder45': 1, 'adder46': 1, 'adder47': 1, 'adder48': 1, 'adder49': 1}]
+depth:3
+times：2
+time:8467.542503595352
+a18 = x2 ^ x14;
+a25 = x6 ^ x12;
+a27 = x1 ^ x9;
+a28 = x2 ^ x7;
+a29 = x11 ^ x13;
+a7 = a28 ^ a29;// y7
+a30 = x1 ^ x4;
+a22 = a28 ^ a30;
+a31 = x2 ^ x10;
+a21 = a31 ^ a29;
+a1 = a22 ^ a21;// y1
+a32 = x6 ^ x14;
+a26 = a32 ^ x7;
+a14 = a26 ^ a27;// y14
+a33 = x0 ^ x5;
+a19 = a32 ^ a33;
+a34 = x9 ^ x15;
+a23 = a34 ^ x12;
+a9 = a23 ^ a22;// y9
+a35 = x3 ^ x6;
+a3 = a34 ^ a35;// y3
+a5 = a19 ^ a3;// y5
+a36 = x0 ^ x13;
+a17 = a36 ^ a35;
+a37 = x5 ^ x11;
+a16 = a37 ^ x8;
+a2 = a16 ^ a18;// y2
+a13 = a16 ^ a17;// y13
+a20 = a37 ^ x3;
+a10 = a21 ^ a20;// y10
+a11 = a20 ^ a19;// y11
+a38 = x3 ^ x12;
+a12 = a38 ^ a37;// y12
+a39 = x1 ^ x15;
+a24 = a39 ^ x10;
+a6 = a25 ^ a24;// y6
+a15 = a24 ^ a22;// y15
+a40 = x7 ^ x8;
+a8 = a39 ^ a40;// y8
+a41 = x10 ^ x12;
+a42 = x0 ^ x7;
+a0 = a41 ^ a42;// y0
+a43 = x4 ^ x14;
+a44 = x3 ^ x8;
+a4 = a43 ^ a44;// y4
