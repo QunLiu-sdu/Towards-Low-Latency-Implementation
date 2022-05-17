@@ -10,7 +10,8 @@ run.py - the main process to run our algorithm for multiprocessing in python.
 
 This program requires Python3.
 
-In main.py, we need to choose one method (1. from Algorithm or 2. from AlgorithmNorandom   import getGraph). Type 1 may have the larger search space while Type 2 has less running time.
+In main.py, we need to choose one method (1. from Algorithm or 2. from AlgorithmNorandom   import getGraph). Type 1 may have the larger search space while Type 2 has less running time. 
+Type 2 can also find the 103/3 circuit for AES MixColumns.
 
 An example is shown as follows.
 	matrix.txt - a given matrix
