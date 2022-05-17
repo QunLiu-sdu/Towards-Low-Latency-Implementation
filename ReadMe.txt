@@ -1,7 +1,7 @@
 Towards Low-Latency Implementation of Linear Layers in FSE 2022
 
 
-In this folder, there are a total of 5 files and 1 folder
+In this folder, there are a total of 6 files and 1 folder
 
 matrix.txt - the matrix we need to optimize.
 Algorithm.py - the algorithm for the backward framework.
@@ -9,6 +9,8 @@ main.py - the process for deal with the output.
 run.py - the main process to run our algorithm for multiprocessing in python.
 
 This program requires Python3.
+
+In main.py, we need to choose one method (1. from Algorithm or 2. from AlgorithmNorandom   import getGraph). Type 1 may have the larger search space while Type 2 has less running time.
 
 An example is shown as follows.
 	matrix.txt - a given matrix
