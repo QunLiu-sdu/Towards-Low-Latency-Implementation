@@ -5,6 +5,7 @@ import copy
 import time
 
 from Algorithm import getGraph
+# from AlgorithmNorandom import getGraph
 
 theMaxNum = 10000
 
